@@ -21,7 +21,7 @@ A simple Gemini AI clone built with **React, Vite, and the Google Gemini API**.
 
 ## Live Demo
 
-
+https://gemini-clone-puce-omega.vercel.app/
 
 ## Author
 
